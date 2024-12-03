@@ -1,0 +1,1 @@
+S A\nS\nS->a | Aa\nA->a\n

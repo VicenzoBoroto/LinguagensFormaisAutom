@@ -1,0 +1,1 @@
+B S C\nS\nB->a\nS->B | C | a\nC->a\n
